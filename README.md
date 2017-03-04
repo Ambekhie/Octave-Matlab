@@ -33,7 +33,9 @@
 
 # Part 2
 # Objective:
-  * The aim of this part is to compare and analyze the behavior of numerical methods Newton interpolation and Lagrange interpolation.
+  * The aim of this part is to compare and analyze the behavior of numerical methods 
+   * Newton interpolation 
+   * Lagrange interpolation.
 
 ## Description:
   * You are required to implement a program for querying the values of specific points using interpolation which takes as an input the polynomial order, sample point(s), corresponding value(s),the interpolation technique to use (Newton – Lagrange) and the query point(s).
