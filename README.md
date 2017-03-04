@@ -32,7 +32,7 @@
  * Single step mode simulation showing the iterations on the drawn function for one method of choice.
 
 # Part 2
-# Objective:
+## Objective:
   * The aim of this part is to compare and analyze the behavior of numerical methods 
    * Newton interpolation 
    * Lagrange interpolation.
